@@ -7,4 +7,6 @@
 1. DC Operating Point Analysis (.op)
 2. DC Sweep Analysis (.dc)
 3. Transient Analysis (.trans)
-3. Transient Analysis - Square and Triangular Wave Generation
+4. Transient Analysis - Square and Triangular Wave Generation
+5. AC Analysis - RLC Circuit
+6. I-V Characteristics - Pure Resistor
