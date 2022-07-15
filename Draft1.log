@@ -1,21 +1,21 @@
 Circuit: * J:\Ltspice_youtube\Draft1.asc
 
-Direct Newton iteration for .op point succeeded.
 
-Date: Mon Jul 11 17:30:21 2022
-Total elapsed time: 0.166 seconds.
+z: sqrt(pow(30,2)+pow((1000*0.02-1/(1000*2*10**(-6))),2))=(53.6418dB,0°)
+
+
+Date: Thu Jul 14 18:00:30 2022
+Total elapsed time: 0.050 seconds.
 
 tnom = 27
 temp = 27
-method = modified trap
-totiter = 3827
-traniter = 3824
-tranpoints = 1913
-accept = 1740
-rejected = 173
-matrix size = 2
+method = trap
+totiter = 0
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 4
 fillins = 0
 solver = Normal
-Matrix Compiler1:       2 opcodes  0.0/[0.0]/0.1
-Matrix Compiler2: off  [0.1]/0.1/0.1
 
